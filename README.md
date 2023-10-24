@@ -1,8 +1,20 @@
-# React + Vite
+# TECHNICAL INTERVEW - REACT JUNIOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nos cuesta organizarnos, y por eso vamos a crear una herramienta que nos permita anotar
+todo lo que tenemos que hacer.
 
-Currently, two official plugins are available:
+Demuestra tus habilidades con React y haz una página que nos permita tomar notas de forma que
+podamos deshacernos de ellas una vez hechas.
+Cuando se marquen como completado, el texto de las notas se verá tachado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Puedes consultar información, asi como la documentación en cualquier momento
+El resultado tiene que mostrar un input donde escribir, un botón para guardar las tareas y la lista
+de tareas tiene que mostrarse verticalmente.
+
+REQUISITOS
+
+- Las notas se pueden guardar y se muestran en la lista []
+- Las notas se pueden borrar de la lista independientemente de su orden []
+- Las notas se pueden marcar como completado []
+  BONUS
+- Añadir fuente personalizada al proyecto
